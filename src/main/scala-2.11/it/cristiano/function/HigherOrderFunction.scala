@@ -1,4 +1,4 @@
-package it.cristiano.function.higher_order_function
+package it.cristiano.function
 
 /**
   * Created by cristiano on 9/6/16.
@@ -6,7 +6,7 @@ package it.cristiano.function.higher_order_function
   * When a function accepts other functions as arguments
   * or returns functions as values is called HIGHER ORDER FUNCTION (HOF)
   */
-object Demo {
+object HigherOrderFunction {
 
   def main(args: Array[String]) {
     println( apply( layout, 10) )
