@@ -8,5 +8,5 @@ package it.cristiano
 class FirstTest {
 
   val a = 10
-  val b = 12
+  val b = 14
 }
