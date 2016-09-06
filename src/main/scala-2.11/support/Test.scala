@@ -5,4 +5,5 @@ package support
   */
 class Test {
 
+  val x = 10
 }
