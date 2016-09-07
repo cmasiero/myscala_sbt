@@ -6,7 +6,7 @@ package it.cristiano.function
   * Typically, parameters to functions are by-value parameters; that is,
   * the value of the parameter is determined before it is passed to the function.
   *
-  * CALL by NAME : When a function is evaluated when the called functions is executed.
+  * CALL by NAME : When a function is evaluated when the called function is executed.
   *
   */
 object CallByName {
