@@ -14,7 +14,7 @@ object SelfTypeAnnotation {
 }
 
 class C1 { self =>
-  def talk(message: String) = println("C1.talk -- " + message)
+  def talk(message: String) = println("C1.talk ** " + message)
   class C2 {
     class C3 {
       def talk(message: String) = self.talk("C3.talk -- " + message)
